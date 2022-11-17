@@ -191,7 +191,7 @@ a {
   animation-iteration-count: infinite;
   animation-timing-function: ease-in;
   animation-duration: 2s;
-  animation-delay: 10s;
+  animation-delay: 5s;
 }
  @keyframes un_efecto{
   0%{ width: 100px; }
